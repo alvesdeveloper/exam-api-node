@@ -16,7 +16,7 @@ Depois de clonar o projeto, seguir as estapas abaixo:
 
 1. Executar `yarn install`, isso instalará todas as dependencias do projeto;
 2. Ter o docker instalado e executar `docker-compose up --build -d` para o arquivo docker-compose.yml. Isto criará o serviço de banco de dados e aplicação.
-3. Para excutar a aplicação a a partir do código use `yarn start:dev`
+3. Para excutar a aplicação a partir do código use `yarn start:dev`
 #
 
 Seguem alguns exemplos de endpoint criados:
